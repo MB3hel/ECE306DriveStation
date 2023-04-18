@@ -1,0 +1,4 @@
+pysdl2
+pysdl2-dll
+pyside6
+pyinstaller
